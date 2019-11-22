@@ -75,7 +75,7 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>kubernatesmaster-snapshots</name>
-        <url>http://104.154.157.96:8081/artifactory/libs-snapshot-local</url>
+        <url>http://104.154.157.96:9090/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
 
